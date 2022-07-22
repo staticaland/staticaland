@@ -13,5 +13,7 @@ Things I care a lot about:
 - [Go](https://notes.garden/%F0%9F%8C%B2+Notes/Golang) because it's simple and beautiful.
 - [Python](https://notes.garden/%F0%9F%8C%B2+Notes/Python) because it's so fun and vibrant.
 - [Terraform](https://notes.garden/Cards/%F0%9F%8C%B2+Notes/Terraform) because it's so effective.
+- [Emacs](https://notes.garden/%F0%9F%8C%B2+Notes/Emacs) with [Doom Emacs](https://github.com/doomemacs/doomemacs) because it's the best tool to handle complexity.
+- [Obsidian](https://obsidian.md/) because a good structure for knowledge enables flow.
 
 ![computer](https://user-images.githubusercontent.com/1691190/180222455-ccdba034-8032-4864-9224-c94d858adc26.gif)
