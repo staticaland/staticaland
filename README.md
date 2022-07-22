@@ -6,7 +6,7 @@
 
 Clean code ≈
 
-Things I care a lot about:
+Computer things I care a lot about:
 
 - [Bits](https://notes.garden/%F0%9F%8C%B2+Notes/Bits) because it's everything.
 - [Site Reliability Engineering](https://notes.garden/Cards/%F0%9F%8C%B2+Notes/Site+Reliability+Engineering) and the [DevOps](https://notes.garden/Cards/%F0%9F%8C%B2+Notes/DevOps) paradigm.
