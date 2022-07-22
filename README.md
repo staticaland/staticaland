@@ -6,9 +6,12 @@
 
 Clean code ≈
 
-- [Bits](https://notes.garden/%F0%9F%8C%B2+Notes/Bits)
-- [Go](https://notes.garden/%F0%9F%8C%B2+Notes/Golang)
-- [Python](https://notes.garden/%F0%9F%8C%B2+Notes/Python)
-- [Terraform](https://notes.garden/Cards/%F0%9F%8C%B2+Notes/Terraform)
+Things I care a lot about:
+
+- [Bits](https://notes.garden/%F0%9F%8C%B2+Notes/Bits) because it's everything.
+- [Site Reliability Engineering](https://notes.garden/Cards/%F0%9F%8C%B2+Notes/Site+Reliability+Engineering) and the [DevOps](https://notes.garden/Cards/%F0%9F%8C%B2+Notes/DevOps) paradigm.
+- [Go](https://notes.garden/%F0%9F%8C%B2+Notes/Golang) because it's simple and beautiful.
+- [Python](https://notes.garden/%F0%9F%8C%B2+Notes/Python) because it's so fun and vibrant.
+- [Terraform](https://notes.garden/Cards/%F0%9F%8C%B2+Notes/Terraform) because it's so effective.
 
 ![computer](https://user-images.githubusercontent.com/1691190/180222455-ccdba034-8032-4864-9224-c94d858adc26.gif)
