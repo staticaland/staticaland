@@ -10,7 +10,7 @@ Computer things I care about:
 
 - [Bits](https://notes.garden/%F0%9F%8C%B2+Notes/Bits) because it's everything.
 - [Site Reliability Engineering](https://notes.garden/Cards/%F0%9F%8C%B2+Notes/Site+Reliability+Engineering) and the [DevOps](https://notes.garden/Cards/%F0%9F%8C%B2+Notes/DevOps) paradigm.
-- [Go](https://notes.garden/%F0%9F%8C%B2+Notes/Golang) because it's simple and beautiful.
+- [Go](https://notes.garden/%F0%9F%8C%B2+Notes/Golang) because simple is beautiful.
 - [Python](https://notes.garden/%F0%9F%8C%B2+Notes/Python) because it's so fun and vibrant.
 - [Terraform](https://notes.garden/Cards/%F0%9F%8C%B2+Notes/Terraform) because it's so effective.
 - [Emacs](https://notes.garden/%F0%9F%8C%B2+Notes/Emacs) with [Doom Emacs](https://github.com/doomemacs/doomemacs) because it's the best tool to handle complexity.
