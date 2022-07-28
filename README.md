@@ -19,6 +19,8 @@ Computer things I care about:
 
 ![computer](https://user-images.githubusercontent.com/1691190/180222455-ccdba034-8032-4864-9224-c94d858adc26.gif)
 
+<p align="right"><a href="https://www.youtube.com/watch?v=tyrHHjBDyb4" align="right">ॐ</a></p>
+
 [^1]: [Augmenting Long-term Memory](http://augmentingcognition.com/ltm.html)
 [^2]: [How to write good prompts: using spaced repetition to create understanding](https://andymatuschak.org/prompts/)
 [^3]: [Spaced Repetition for Efficient Learning · Gwern.net](https://www.gwern.net/Spaced-repetition)
