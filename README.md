@@ -3,7 +3,7 @@
 
 ![under_construction](https://user-images.githubusercontent.com/1691190/180219705-9ec4bfb0-bac2-43b6-b377-c6e85db9c3e0.gif)
 
-[![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)](https://staticaland.github.io/doom-emacs-config/)
+[![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?style=flat&logo=gnu-emacs&logoColor=white)](https://staticaland.github.io/doom-emacs-config/)
 
 <a href="https://notes.garden"><img align="right" src="https://user-images.githubusercontent.com/1691190/180220060-88b46250-c6b4-436c-b43b-67a174ff6bf1.gif"></a>
 
