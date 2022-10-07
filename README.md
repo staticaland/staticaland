@@ -7,8 +7,6 @@
 
 Clean code ≈
 
-[![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?style=flat&logo=gnu-emacs&logoColor=white)](https://staticaland.github.io/doom-emacs-config/)
-
 Computer things I care about:
 
 - [Bits](https://notes.garden/%F0%9F%8C%B2+Notes/Bits) because it's everything.
@@ -21,6 +19,8 @@ Computer things I care about:
 - Spaced repetition with [Anki](https://apps.ankiweb.net/) to make memory a choice.[^1][^2][^3]
 
 ![computer](https://user-images.githubusercontent.com/1691190/180222455-ccdba034-8032-4864-9224-c94d858adc26.gif)
+
+<a href="https://staticaland.github.io/doom-emacs-config/"><img align="right" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?style=flat&logo=gnu-emacs&logoColor=white"></a>
 
 <p align="right"><a href="https://www.youtube.com/watch?v=tyrHHjBDyb4" align="right">ॐ</a></p>
 
