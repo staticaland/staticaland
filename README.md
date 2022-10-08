@@ -14,7 +14,7 @@ Computer things I care about:
 - [Go](https://notes.garden/%F0%9F%8C%B2+Notes/Golang) because simple is beautiful.
 - [Python](https://notes.garden/%F0%9F%8C%B2+Notes/Python) because it's so fun and vibrant.
 - [Terraform](https://notes.garden/Cards/%F0%9F%8C%B2+Notes/Terraform) because it's so effective.
-- [Emacs](https://notes.garden/%F0%9F%8C%B2+Notes/Emacs) with [Doom Emacs](https://github.com/doomemacs/doomemacs) because it's the best tool to handle complexity.
+- [Emacs](https://notes.garden/%F0%9F%8C%B2+Notes/Emacs) with [Doom Emacs](https://github.com/doomemacs/doomemacs) because it's the best tool to handle complexity.[^4]
 - [Obsidian](https://obsidian.md/) because a good structure for knowledge enables flow and higher states of creative thinking. Let's call it a neuroprosthetic.
 - Spaced repetition with [Anki](https://apps.ankiweb.net/) to make memory a choice.[^1][^2][^3]
 
@@ -27,3 +27,4 @@ Computer things I care about:
 [^1]: [Augmenting Long-term Memory](http://augmentingcognition.com/ltm.html)
 [^2]: [How to write good prompts: using spaced repetition to create understanding](https://andymatuschak.org/prompts/)
 [^3]: [Spaced Repetition for Efficient Learning · Gwern.net](https://www.gwern.net/Spaced-repetition)
+[^4]: [Automate to save mental energy, not time](https://www.johndcook.com/blog/2015/12/22/automate-to-save-mental-energy-not-time/)
