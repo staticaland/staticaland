@@ -15,7 +15,7 @@ Computer things I care about:
 - [Python](https://notes.garden/%F0%9F%8C%B2+Notes/Python) because it's so fun and vibrant.
 - [Terraform](https://notes.garden/Cards/%F0%9F%8C%B2+Notes/Terraform) because it's so effective.
 - [Emacs](https://notes.garden/%F0%9F%8C%B2+Notes/Emacs) with [Doom Emacs](https://github.com/doomemacs/doomemacs) because it's the best tool to handle complexity.[^4]
-- [Obsidian](https://obsidian.md/) because a good structure for knowledge enables flow and higher states of creative thinking. Let's call it a neuroprosthetic.
+- [Obsidian](https://obsidian.md/) as a neural-enhancing tool for structuring knowledge, fostering creative flow and elevated thinking.
 - Spaced repetition with [Anki](https://apps.ankiweb.net/) to make memory a choice.[^1][^2][^3]
 
 ![computer](https://user-images.githubusercontent.com/1691190/180222455-ccdba034-8032-4864-9224-c94d858adc26.gif)
