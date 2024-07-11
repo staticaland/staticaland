@@ -1,6 +1,5 @@
 > By relieving the brain of all unnecessary work, a good notation sets it free to concentrate on more advanced problems, and in effect increases the mental power of the race.
 
-
 ![under_construction](https://user-images.githubusercontent.com/1691190/180219705-9ec4bfb0-bac2-43b6-b377-c6e85db9c3e0.gif)
 
 <a href="https://notes.garden"><img align="right" src="https://user-images.githubusercontent.com/1691190/180220060-88b46250-c6b4-436c-b43b-67a174ff6bf1.gif"></a>
@@ -14,9 +13,11 @@ Computer things I care about:
 - [Go](https://notes.garden/%F0%9F%8C%B2+Notes/Golang) because simple is beautiful.
 - [Python](https://notes.garden/%F0%9F%8C%B2+Notes/Python) because it's so fun and vibrant.
 - [Terraform](https://notes.garden/Cards/%F0%9F%8C%B2+Notes/Terraform) because it's so effective.
-- [Emacs](https://notes.garden/%F0%9F%8C%B2+Notes/Emacs) with [Doom Emacs](https://github.com/doomemacs/doomemacs) because it's the best tool to handle complexity.[^4]
-- [Obsidian](https://obsidian.md/) as a neural-enhancing tool for structuring knowledge, fostering creative flow and elevated thinking.
+- [Emacs](https://notes.garden/%F0%9F%8C%B2+Notes/Emacs) with [Doom Emacs](https://github.com/doomemacs/doomemacs) to tame complexity.[^4]
+- [Obsidian](https://obsidian.md/) to augment cognition and spark creativity.
+- UX and design to harmonize human needs with complex systems.
 - Spaced repetition with [Anki](https://apps.ankiweb.net/) to make memory a choice.[^1][^2][^3]
+- AI and large language models to reduce inertia and surpass activation energy thresholds.
 
 ![computer](https://user-images.githubusercontent.com/1691190/180222455-ccdba034-8032-4864-9224-c94d858adc26.gif)
 
