@@ -25,8 +25,7 @@ graph TD
     A --> C[Logitech G502 Hero]
     B --> E[macOS]
     C --> E
-    E --> D[Samsung CRG9]
-    D --> F[Aerospace]
+    E --> F[Aerospace]
     F --> G[Emacs]
     F --> H[VS Code]
     F --> I[Cursor]
