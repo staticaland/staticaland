@@ -19,6 +19,20 @@ Computer things I care about:
 - Spaced repetition with [Anki](https://apps.ankiweb.net/) to make memory a choice.[^1][^2][^3]
 - AI and large language models to reduce inertia and surpass activation energy thresholds.
 
+```mermaid
+graph TD
+    A[HÅG Capisco] --> B[Keyboardio Model 100]
+    A --> C[Logitech G502 Hero]
+    B --> E[macOS]
+    C --> E
+    E --> D[Samsung CRG9]
+    D --> F[Aerospace]
+    F --> G[Emacs]
+    F --> H[VS Code]
+    F --> I[Cursor]
+    F --> J[Wezterm]
+```
+
 ![computer](https://user-images.githubusercontent.com/1691190/180222455-ccdba034-8032-4864-9224-c94d858adc26.gif)
 
 <a href="https://staticaland.github.io/doom-emacs-config/"><img align="right" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?style=flat&logo=gnu-emacs&logoColor=white"></a>
