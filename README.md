@@ -39,11 +39,11 @@ graph TD
 <p align="right"><a href="https://www.youtube.com/watch?v=tyrHHjBDyb4" align="right">ॐ</a></p>
 
 <p align="right">
-<code>ᵢₙcᵣₑₐₛᵢₙgₗy,⎯ₚₑₒₚₗₑ⎯ₛₑₑₘ⎯ₜₒ
-ₘᵢₛᵢₙₜₑᵣₚᵣₑₜ⎯cₒₘₚₗₑₓᵢₜy⎯ₐₛ
-ₛₒₚₕᵢₛₜᵢcₐₜᵢₒₙ,⎯wₕᵢcₕ⎯ᵢₛ⎯bₐffₗᵢₙg-
-ₜₕₑ⎯ᵢₙcₒₘₚᵣₑₕₑₙₛᵢbₗₑ⎯ₛₕₒᵤₗd⎯cₐᵤₛₑ
-ₛᵤₛₚᵢcᵢₒₙ⎯ᵣₐₜₕₑᵣ⎯ₜₕₐₙ⎯ₐdₘᵢᵣₐₜᵢₒₙ.</code>
+<code>ᵢₙcᵣₑₐₛᵢₙgₗy, ₚₑₒₚₗₑ ₛₑₑₘ ₜₒ
+ₘᵢₛᵢₙₜₑᵣₚᵣₑₜ cₒₘₚₗₑₓᵢₜy ₐₛ
+ₛₒₚₕᵢₛₜᵢcₐₜᵢₒₙ, wₕᵢcₕ ᵢₛ bₐffₗᵢₙg-
+ₜₕₑ ᵢₙcₒₘₚᵣₑₕₑₙₛᵢbₗₑ ₛₕₒᵤₗd cₐᵤₛₑ
+ₛᵤₛₚᵢcᵢₒₙ ᵣₐₜₕₑᵣ ₜₕₐₙ ₐdₘᵢᵣₐₜᵢₒₙ.</code>
 </p>
 
 [^1]: [Augmenting Long-term Memory](http://augmentingcognition.com/ltm.html)
