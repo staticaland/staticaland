@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/dab989b3-a37a-490f-9b0e-fb65abb7c0a4)
+
 > By relieving the brain of all unnecessary work, a good notation sets it free to concentrate on more advanced problems, and in effect increases the mental power of the race.
 
 ![under_construction](https://user-images.githubusercontent.com/1691190/180219705-9ec4bfb0-bac2-43b6-b377-c6e85db9c3e0.gif)
@@ -32,6 +34,8 @@ Computer things I care about:
 ₜₕₑ ᵢₙcₒₘₚᵣₑₕₑₙₛᵢbₗₑ ₛₕₒᵤₗd cₐᵤₛₑ
 ₛᵤₛₚᵢcᵢₒₙ ᵣₐₜₕₑᵣ ₜₕₐₙ ₐdₘᵢᵣₐₜᵢₒₙ.</code>
 </p>
+
+![macosmade](https://github.com/user-attachments/assets/5b856a50-5199-4dc0-a1f8-d253b20168a1)
 
 [^1]: [Augmenting Long-term Memory](http://augmentingcognition.com/ltm.html)
 [^2]: [How to write good prompts: using spaced repetition to create understanding](https://andymatuschak.org/prompts/)
